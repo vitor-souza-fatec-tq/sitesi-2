@@ -9,7 +9,7 @@ h1{
 .txt-azul{
     color:#3a5298;
     font-size: 18px;
-    font-weight: bold; //negrito
+    font-weight: bold; /*negrito*/
 }
 
 .dir {

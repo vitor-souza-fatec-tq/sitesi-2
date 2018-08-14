@@ -1,7 +1,22 @@
 body{
-    background-color: #333;
+    background-color: grey;
 }
 
 h1{
     color: #FFF;
+}
+
+.txt-azul{
+    color:#3a5298;
+    font-size: 18px;
+    font-weight: bold; //negrito
+}
+
+.dir {
+    float: right;
+    margin: 15px;
+}
+
+.clear{
+    clear: both;
 }
